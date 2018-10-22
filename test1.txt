@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4694-BC82
+
+ Directory of C:\Users\Sammy\Desktop\MyProject
+
+10/22/2018  04:07 PM    <DIR>          .
+10/22/2018  04:07 PM    <DIR>          ..
+10/22/2018  04:07 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  60,567,412,736 bytes free
